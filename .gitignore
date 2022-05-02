@@ -1,4 +1,5 @@
 node_modules
+next.config
 dist
 public
 .next
