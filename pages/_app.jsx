@@ -1,6 +1,6 @@
 import React from 'react';
 import { ThemeProvider } from 'theme-ui' ;
-import  Nav from '../src/components/Nav';
+import  Nav from '../src/components/nav';
 import theme from '../theme';
 
 export default function App({ Component, pageProps}) {
